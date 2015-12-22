@@ -1,0 +1,9 @@
+#/bin/bash
+
+rsync -avz ~/zhangjian/code/ node0:~/zhangjian/code/
+rsync -avz ~/zhangjian/code/ node2:~/zhangjian/code/
+rsync -avz ~/zhangjian/code/ node3:~/zhangjian/code/
+rsync -avz ~/zhangjian/code/ node4:~/zhangjian/code/
+rsync -avz ~/zhangjian/code/ node5:~/zhangjian/code/
+rsync -avz ~/zhangjian/code/ node6:~/zhangjian/code/
+
