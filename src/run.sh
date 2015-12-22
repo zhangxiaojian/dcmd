@@ -16,4 +16,6 @@
 #      REVISION:  ---
 #===============================================================================
 
+# complie script
+
 mpicxx -g -O0 -o dcmd MessagePasser.h MessagePasser.cpp dcmd.cpp -L /usr/local/lib -lreadline -ledit
