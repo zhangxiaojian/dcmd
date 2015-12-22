@@ -1,4 +1,6 @@
 #/bin/bash
+# If you change the code, the changes must syn to every node.
+# This shell script is used to synchonize the changes
 
 rsync -avz ~/zhangjian/code/ node0:~/zhangjian/code/
 rsync -avz ~/zhangjian/code/ node2:~/zhangjian/code/
