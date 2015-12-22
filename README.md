@@ -6,7 +6,7 @@ Excute distributed shell command under MPI environment
   while n is the number of nodes in MPI environment.
 
 **Usage:<br>**
-help,quit,bye<br>
+　　help,quit,bye<br>
 　　shell (nodelist)<br>
 　　Example: rm -r ~/csm (123)
 
